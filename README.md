@@ -1,2 +1,2 @@
 # web-demo
-C:\Users\cumt_\IdeaProjects\qainglovepeiweb
+springmvc+mybaties+redis+dubbo
